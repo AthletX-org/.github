@@ -9,3 +9,5 @@ The main services provided are:
   -  _Workout and improvement analysis using charts_
 
 **Live** @ https://athletx-client.onrender.com
+
+**Localhost Deploy**: Clone the `bootstrap` repository and launch the command `docker-compose up`
